@@ -1,6 +1,10 @@
+.bowerrc
+gulpfile.js
+package.json
+
+/.idea/
 /node_modules/
-/dist/
 /.git/
-/app/css/
+/node_modules/
 /**/*.psd
 /**/Thumbs.db
